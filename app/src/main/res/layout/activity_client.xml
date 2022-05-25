@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bb"
+    android:orientation="vertical"
+    tools:context=".Client">
+
+    <Button
+        android:id="@+id/historique"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="historique" />
+
+    <Button
+        android:id="@+id/ajoutappareil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ajout appareil" />
+
+    <Button
+        android:id="@+id/showcapteurs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show capteurs" />
+
+
+    <Button
+        android:id="@+id/logoutclient"
+        android:layout_width="137dp"
+        android:layout_height="85dp"
+        android:layout_marginStart="4dp"
+        android:background="@drawable/btn_bg"
+        android:drawableLeft="@drawable/ic_baseline_login_24"
+        android:drawablePadding="3dp"
+        android:paddingLeft="20dp"
+        android:text="lougout"
+        android:textAlignment="textStart"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        app:layout_constraintStart_toStartOf="parent"
+
+        />
+</LinearLayout>
