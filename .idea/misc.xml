@@ -6,7 +6,7 @@
         <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/drawable/background_btn.xml" value="0.2075" />
         <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/drawable/tcp1_background.xml" value="0.2065" />
         <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/drawable/tcp_background.xml" value="0.2065" />
-        <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout-land/activity_dashbord.xml" value="0.1693121693121693" />
+        <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout-land/activity_dashbord.xml" value="0.1" />
         <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout-land/activity_main.xml" value="0.1728395061728395" />
         <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout/activity_admin.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout/activity_appareils.xml" value="0.20416666666666666" />
@@ -19,7 +19,10 @@
         <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout/activity_register.xml" value="0.25" />
         <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout/activity_user_details.xml" value="0.1" />
         <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout/activity_visiteur.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout/fragment_map.xml" value="0.22" />
+        <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout/fragment_maps.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout/layout.xml" value="0.1859375" />
+        <entry key="..\:/Users/abidi/Downloads/Registration/Registration/app/src/main/res/layout/map.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

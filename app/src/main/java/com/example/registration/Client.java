@@ -47,7 +47,7 @@ public class Client extends AppCompatActivity {
         showsensors.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent in = new Intent(getApplicationContext() ,Maps.class);
+                Intent in = new Intent(getApplicationContext() ,Capteurs.class);
                 startActivity(in);
             }
         });
